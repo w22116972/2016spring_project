@@ -22,9 +22,10 @@
 
 ## 分析方式
 
-1. Apache Spark整理資料，分析資料
-2. html, css, javascript來視覺化分析結果
-3. Google API來plot經緯度
+1. Amazon AWS存放資料，下載資料
+2. Apache Spark整理資料，分析資料
+3. html, css, javascript來視覺化分析結果
+4. Google API來plot經緯度
 
 ## 結論
 
