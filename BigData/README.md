@@ -8,6 +8,7 @@
 
 ## 資料庫的描述
 
+- 來自Amazon Public Dataset snapshot
 - 放在Amazon AWS上的500GB資料集，需要透過Amazon EBS存放後再用Amazon EC2下載該資料集。
 - 資料庫裡面含有歌曲名稱，歌詞，歌手資料，風格的標籤，歌手所在經緯度等。
 
@@ -87,3 +88,7 @@ How to get the dataset:
 [另一個資料來源](http://labrosa.ee.columbia.edu/millionsong/pages/gettingFdataset) 
  
 [Additional datasets](http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets)
+
+Thierry Bertin-Mahieux, Daniel P.W. Ellis, Brian Whitman, and Paul Lamere. 
+The Million Song Dataset. In Proceedings of the 12th International Society
+for Music Information Retrieval Conference (ISMIR 2011), 2011.
